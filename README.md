@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/swabhiman_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swabhiman_js" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/swabhiman-upadhyaya-495771310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swabhiman-upadhyaya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/swabhiman_upadhyaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swabhiman_upadhyaya" height="30" width="40" /></a>
+<a href="https://twitter.com/swabhiman_js" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swabhiman_js" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/swabhiman-upadhyaya-495771310/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swabhiman-upadhyaya" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/swabhiman_upadhyaya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swabhiman_upadhyaya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
