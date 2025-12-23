@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Swabhiman Upadhyaya</h1>
-<h3 align="center">Proficient Full Stack Web Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <img align = "right" alt ="Coding" width = "400" src="https://imgs.search.brave.com/FUQFeltlyktoFo4v1hqYhd59cqmTd0lhRiF75WDgLzw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY291cGxl/LWxhcHRvcC1zeXN0/ZW0tY29kaW5nLW40/aWthd2JjaHJoMnc0/MWsuZ2lm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swabhiman-upadhyaya&label=Profile%20views&color=0e75b6&style=flat" alt="swabhiman-upadhyaya" /> </p>
 
-- 🌱 I’m currently learning **JS, ES6+, React,**
+- 🌱 I’m currently exploring **Gen Ai and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://swabhimans-portfolio.netlify.app/](https://swabhimans-portfolio.netlify.app/)
 
-- 💬 Ask me about **HTML5, CSS3, SCSS, JAVA, PYTHON, OOPS, C, DSA**
+- 💬 Ask me about **HTML5, CSS3, SCSS, JS, JAVA, PYTHON, OOPS, C, DSA**
 
 - 📫 How to reach me **swabhimanupadhyaya18@gmail.com**
-
-- ⚡ Fun fact **I am not funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
