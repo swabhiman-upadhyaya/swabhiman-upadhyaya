@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://swabhimans-portfolio.netlify.app/](https://swabhimans-portfolio.netlify.app/)
 
-- 💬 Ask me about **HTML5, CSS3, SCSS, JS, JAVA, PYTHON, OOPS, C, DSA**
+- 💬 Ask me about **HTML5, CSS3, SCSS, JS, JAVA, PYTHON, OOPS, DBMS, C, DSA**
 
 - 📫 How to reach me **swabhimanupadhyaya18@gmail.com**
 
