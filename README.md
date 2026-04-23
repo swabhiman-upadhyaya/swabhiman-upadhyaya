@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=swabhiman-upadhyaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=swabhiman-upadhyaya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swabhiman-upadhyaya&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swabhiman-upadhyaya&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/swabhiman-upadhyaya)
